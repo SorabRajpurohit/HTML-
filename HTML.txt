@@ -1,0 +1,24 @@
+for vs code
+
+1. To do comment in html you need to press ctrl + /
+
+2. by pressing alt you can move any line up and down 
+
+3. by pressing alt you can create mutiple cursor so that you can make changes in all at a same time for that first you need to prss alt and after that click the places 
+   where you want to create the cursor. once the work is complete you can undo the curser by again pressing key alt
+
+4. by pressing shift+alt+downorup you can duplicate the contant
+
+5. while creating <h1><H2><h3>..... we go further the importance and length of the heading will start dereasing.
+
+6. if you one line is getting longer and you want to put it in the second line you use 'toggle word wrap(alt+z)'
+
+7. by pressing ctrl+ enter you can go in next line
+
+8. in the body tag you can create header, main, footer tag to see this go check body.html
+
+9. SEO FRIENDTLY website layout :-  <header>       |<section>|
+                                    <main>========>|<article>|
+                                    <footer>       |<aside>  |
+
+10.SEO ==> search engine Optimaization
